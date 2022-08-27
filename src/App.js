@@ -152,6 +152,12 @@ function App() {
       return false
     }
 
+    if (e.target.value.length > 0) {
+      e.target.style.color = "white"
+    } else {
+      e.target.style.color = "black"
+    }
+
     return true
   }
 
