@@ -278,6 +278,7 @@ function App() {
   }
 
   const handleClear = () => {
+    Array.from(document.getElementsByTagName("input")).forEach(ele => ele.style.color = "black")
     setR1C1("")
     setR1C2("")
     setR1C3("")
