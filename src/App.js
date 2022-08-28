@@ -381,181 +381,181 @@ function App() {
       <div className="container">
         <div className="parent">
           <span className="child1">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r1c1} onChange={(e) => { if (handleChange(e, [1, 1])) setR1C1(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r1c2} onChange={(e) => { if (handleChange(e, [1, 2])) setR1C2(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r1c3} onChange={(e) => { if (handleChange(e, [1, 3])) setR1C3(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r1c1} onChange={(e) => { if (handleChange(e, [1, 1])) setR1C1(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r1c2} onChange={(e) => { if (handleChange(e, [1, 2])) setR1C2(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r1c3} onChange={(e) => { if (handleChange(e, [1, 3])) setR1C3(e.target.value) }} />
           </span>
 
           <span className="child2">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r1c4} onChange={(e) => { if (handleChange(e, [1, 4])) setR1C4(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r1c5} onChange={(e) => { if (handleChange(e, [1, 5])) setR1C5(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r1c6} onChange={(e) => { if (handleChange(e, [1, 6])) setR1C6(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r1c4} onChange={(e) => { if (handleChange(e, [1, 4])) setR1C4(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r1c5} onChange={(e) => { if (handleChange(e, [1, 5])) setR1C5(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r1c6} onChange={(e) => { if (handleChange(e, [1, 6])) setR1C6(e.target.value) }} />
           </span>
 
           <span className="child1">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r1c7} onChange={(e) => { if (handleChange(e, [1, 7])) setR1C7(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r1c8} onChange={(e) => { if (handleChange(e, [1, 8])) setR1C8(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r1c9} onChange={(e) => { if (handleChange(e, [1, 9])) setR1C9(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r1c7} onChange={(e) => { if (handleChange(e, [1, 7])) setR1C7(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r1c8} onChange={(e) => { if (handleChange(e, [1, 8])) setR1C8(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r1c9} onChange={(e) => { if (handleChange(e, [1, 9])) setR1C9(e.target.value) }} />
           </span>
         </div>
 
         <div className="parent">
           <span className="child1">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r2c1} onChange={(e) => { if (handleChange(e, [2, 1])) setR2C1(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r2c2} onChange={(e) => { if (handleChange(e, [2, 2])) setR2C2(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r2c3} onChange={(e) => { if (handleChange(e, [2, 3])) setR2C3(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r2c1} onChange={(e) => { if (handleChange(e, [2, 1])) setR2C1(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r2c2} onChange={(e) => { if (handleChange(e, [2, 2])) setR2C2(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r2c3} onChange={(e) => { if (handleChange(e, [2, 3])) setR2C3(e.target.value) }} />
           </span>
 
           <span className="child2">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r2c4} onChange={(e) => { if (handleChange(e, [2, 4])) setR2C4(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r2c5} onChange={(e) => { if (handleChange(e, [2, 5])) setR2C5(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r2c6} onChange={(e) => { if (handleChange(e, [2, 6])) setR2C6(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r2c4} onChange={(e) => { if (handleChange(e, [2, 4])) setR2C4(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r2c5} onChange={(e) => { if (handleChange(e, [2, 5])) setR2C5(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r2c6} onChange={(e) => { if (handleChange(e, [2, 6])) setR2C6(e.target.value) }} />
           </span>
 
           <span className="child1">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r2c7} onChange={(e) => { if (handleChange(e, [2, 7])) setR2C7(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r2c8} onChange={(e) => { if (handleChange(e, [2, 8])) setR2C8(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r2c9} onChange={(e) => { if (handleChange(e, [2, 9])) setR2C9(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r2c7} onChange={(e) => { if (handleChange(e, [2, 7])) setR2C7(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r2c8} onChange={(e) => { if (handleChange(e, [2, 8])) setR2C8(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r2c9} onChange={(e) => { if (handleChange(e, [2, 9])) setR2C9(e.target.value) }} />
           </span>
         </div>
 
         <div className="parent">
           <span className="child1">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r3c1} onChange={(e) => { if (handleChange(e, [3, 1])) setR3C1(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r3c2} onChange={(e) => { if (handleChange(e, [3, 2])) setR3C2(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r3c3} onChange={(e) => { if (handleChange(e, [3, 3])) setR3C3(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r3c1} onChange={(e) => { if (handleChange(e, [3, 1])) setR3C1(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r3c2} onChange={(e) => { if (handleChange(e, [3, 2])) setR3C2(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r3c3} onChange={(e) => { if (handleChange(e, [3, 3])) setR3C3(e.target.value) }} />
           </span>
 
           <span className="child2">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r3c4} onChange={(e) => { if (handleChange(e, [3, 4])) setR3C4(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r3c5} onChange={(e) => { if (handleChange(e, [3, 5])) setR3C5(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r3c6} onChange={(e) => { if (handleChange(e, [3, 6])) setR3C6(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r3c4} onChange={(e) => { if (handleChange(e, [3, 4])) setR3C4(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r3c5} onChange={(e) => { if (handleChange(e, [3, 5])) setR3C5(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r3c6} onChange={(e) => { if (handleChange(e, [3, 6])) setR3C6(e.target.value) }} />
           </span>
 
           <span className="child1">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r3c7} onChange={(e) => { if (handleChange(e, [3, 7])) setR3C7(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r3c8} onChange={(e) => { if (handleChange(e, [3, 8])) setR3C8(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r3c9} onChange={(e) => { if (handleChange(e, [3, 9])) setR3C9(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r3c7} onChange={(e) => { if (handleChange(e, [3, 7])) setR3C7(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r3c8} onChange={(e) => { if (handleChange(e, [3, 8])) setR3C8(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r3c9} onChange={(e) => { if (handleChange(e, [3, 9])) setR3C9(e.target.value) }} />
           </span>
         </div>
 
         <div className="parent">
           <span className="child2">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r4c1} onChange={(e) => { if (handleChange(e, [4, 1])) setR4C1(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r4c2} onChange={(e) => { if (handleChange(e, [4, 2])) setR4C2(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r4c3} onChange={(e) => { if (handleChange(e, [4, 3])) setR4C3(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r4c1} onChange={(e) => { if (handleChange(e, [4, 1])) setR4C1(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r4c2} onChange={(e) => { if (handleChange(e, [4, 2])) setR4C2(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r4c3} onChange={(e) => { if (handleChange(e, [4, 3])) setR4C3(e.target.value) }} />
           </span>
 
           <span className="child3">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r4c4} onChange={(e) => { if (handleChange(e, [4, 4])) setR4C4(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r4c5} onChange={(e) => { if (handleChange(e, [4, 5])) setR4C5(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r4c6} onChange={(e) => { if (handleChange(e, [4, 6])) setR4C6(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r4c4} onChange={(e) => { if (handleChange(e, [4, 4])) setR4C4(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r4c5} onChange={(e) => { if (handleChange(e, [4, 5])) setR4C5(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r4c6} onChange={(e) => { if (handleChange(e, [4, 6])) setR4C6(e.target.value) }} />
           </span>
 
           <span className="child2">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r4c7} onChange={(e) => { if (handleChange(e, [4, 7])) setR4C7(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r4c8} onChange={(e) => { if (handleChange(e, [4, 8])) setR4C8(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r4c9} onChange={(e) => { if (handleChange(e, [4, 9])) setR4C9(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r4c7} onChange={(e) => { if (handleChange(e, [4, 7])) setR4C7(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r4c8} onChange={(e) => { if (handleChange(e, [4, 8])) setR4C8(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r4c9} onChange={(e) => { if (handleChange(e, [4, 9])) setR4C9(e.target.value) }} />
           </span>
         </div>
 
         <div className="parent">
           <span className="child2">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r5c1} onChange={(e) => { if (handleChange(e, [5, 1])) setR5C1(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r5c2} onChange={(e) => { if (handleChange(e, [5, 2])) setR5C2(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r5c3} onChange={(e) => { if (handleChange(e, [5, 3])) setR5C3(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r5c1} onChange={(e) => { if (handleChange(e, [5, 1])) setR5C1(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r5c2} onChange={(e) => { if (handleChange(e, [5, 2])) setR5C2(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r5c3} onChange={(e) => { if (handleChange(e, [5, 3])) setR5C3(e.target.value) }} />
           </span>
 
           <span className="child3">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r5c4} onChange={(e) => { if (handleChange(e, [5, 4])) setR5C4(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r5c5} onChange={(e) => { if (handleChange(e, [5, 5])) setR5C5(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r5c6} onChange={(e) => { if (handleChange(e, [5, 6])) setR5C6(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r5c4} onChange={(e) => { if (handleChange(e, [5, 4])) setR5C4(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r5c5} onChange={(e) => { if (handleChange(e, [5, 5])) setR5C5(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r5c6} onChange={(e) => { if (handleChange(e, [5, 6])) setR5C6(e.target.value) }} />
           </span>
 
           <span className="child2">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r5c7} onChange={(e) => { if (handleChange(e, [5, 7])) setR5C7(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r5c8} onChange={(e) => { if (handleChange(e, [5, 8])) setR5C8(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r5c9} onChange={(e) => { if (handleChange(e, [5, 9])) setR5C9(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r5c7} onChange={(e) => { if (handleChange(e, [5, 7])) setR5C7(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r5c8} onChange={(e) => { if (handleChange(e, [5, 8])) setR5C8(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r5c9} onChange={(e) => { if (handleChange(e, [5, 9])) setR5C9(e.target.value) }} />
           </span>
         </div>
 
         <div className="parent">
           <span className="child2">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r6c1} onChange={(e) => { if (handleChange(e, [6, 1])) setR6C1(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r6c2} onChange={(e) => { if (handleChange(e, [6, 2])) setR6C2(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r6c3} onChange={(e) => { if (handleChange(e, [6, 3])) setR6C3(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r6c1} onChange={(e) => { if (handleChange(e, [6, 1])) setR6C1(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r6c2} onChange={(e) => { if (handleChange(e, [6, 2])) setR6C2(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r6c3} onChange={(e) => { if (handleChange(e, [6, 3])) setR6C3(e.target.value) }} />
           </span>
 
           <span className="child3">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r6c4} onChange={(e) => { if (handleChange(e, [6, 4])) setR6C4(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r6c5} onChange={(e) => { if (handleChange(e, [6, 5])) setR6C5(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r6c6} onChange={(e) => { if (handleChange(e, [6, 6])) setR6C6(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r6c4} onChange={(e) => { if (handleChange(e, [6, 4])) setR6C4(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r6c5} onChange={(e) => { if (handleChange(e, [6, 5])) setR6C5(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r6c6} onChange={(e) => { if (handleChange(e, [6, 6])) setR6C6(e.target.value) }} />
           </span>
 
           <span className="child2">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r6c7} onChange={(e) => { if (handleChange(e, [6, 7])) setR6C7(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r6c8} onChange={(e) => { if (handleChange(e, [6, 8])) setR6C8(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r6c9} onChange={(e) => { if (handleChange(e, [6, 9])) setR6C9(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r6c7} onChange={(e) => { if (handleChange(e, [6, 7])) setR6C7(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r6c8} onChange={(e) => { if (handleChange(e, [6, 8])) setR6C8(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r6c9} onChange={(e) => { if (handleChange(e, [6, 9])) setR6C9(e.target.value) }} />
           </span>
         </div>
 
         <div className="parent">
           <span className="child1">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r7c1} onChange={(e) => { if (handleChange(e, [7, 1])) setR7C1(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r7c2} onChange={(e) => { if (handleChange(e, [7, 2])) setR7C2(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r7c3} onChange={(e) => { if (handleChange(e, [7, 3])) setR7C3(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r7c1} onChange={(e) => { if (handleChange(e, [7, 1])) setR7C1(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r7c2} onChange={(e) => { if (handleChange(e, [7, 2])) setR7C2(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r7c3} onChange={(e) => { if (handleChange(e, [7, 3])) setR7C3(e.target.value) }} />
           </span>
 
           <span className="child2">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r7c4} onChange={(e) => { if (handleChange(e, [7, 4])) setR7C4(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r7c5} onChange={(e) => { if (handleChange(e, [7, 5])) setR7C5(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r7c6} onChange={(e) => { if (handleChange(e, [7, 6])) setR7C6(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r7c4} onChange={(e) => { if (handleChange(e, [7, 4])) setR7C4(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r7c5} onChange={(e) => { if (handleChange(e, [7, 5])) setR7C5(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r7c6} onChange={(e) => { if (handleChange(e, [7, 6])) setR7C6(e.target.value) }} />
           </span>
 
           <span className="child1">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r7c7} onChange={(e) => { if (handleChange(e, [7, 7])) setR7C7(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r7c8} onChange={(e) => { if (handleChange(e, [7, 8])) setR7C8(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r7c9} onChange={(e) => { if (handleChange(e, [7, 9])) setR7C9(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r7c7} onChange={(e) => { if (handleChange(e, [7, 7])) setR7C7(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r7c8} onChange={(e) => { if (handleChange(e, [7, 8])) setR7C8(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r7c9} onChange={(e) => { if (handleChange(e, [7, 9])) setR7C9(e.target.value) }} />
           </span>
         </div>
 
         <div className="parent">
           <span className="child1">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r8c1} onChange={(e) => { if (handleChange(e, [8, 1])) setR8C1(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r8c2} onChange={(e) => { if (handleChange(e, [8, 2])) setR8C2(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r8c3} onChange={(e) => { if (handleChange(e, [8, 3])) setR8C3(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r8c1} onChange={(e) => { if (handleChange(e, [8, 1])) setR8C1(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r8c2} onChange={(e) => { if (handleChange(e, [8, 2])) setR8C2(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r8c3} onChange={(e) => { if (handleChange(e, [8, 3])) setR8C3(e.target.value) }} />
           </span>
 
           <span className="child2">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r8c4} onChange={(e) => { if (handleChange(e, [8, 4])) setR8C4(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r8c5} onChange={(e) => { if (handleChange(e, [8, 5])) setR8C5(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r8c6} onChange={(e) => { if (handleChange(e, [8, 6])) setR8C6(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r8c4} onChange={(e) => { if (handleChange(e, [8, 4])) setR8C4(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r8c5} onChange={(e) => { if (handleChange(e, [8, 5])) setR8C5(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r8c6} onChange={(e) => { if (handleChange(e, [8, 6])) setR8C6(e.target.value) }} />
           </span>
 
           <span className="child1">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r8c7} onChange={(e) => { if (handleChange(e, [8, 7])) setR8C7(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r8c8} onChange={(e) => { if (handleChange(e, [8, 8])) setR8C8(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r8c9} onChange={(e) => { if (handleChange(e, [8, 9])) setR8C9(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r8c7} onChange={(e) => { if (handleChange(e, [8, 7])) setR8C7(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r8c8} onChange={(e) => { if (handleChange(e, [8, 8])) setR8C8(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r8c9} onChange={(e) => { if (handleChange(e, [8, 9])) setR8C9(e.target.value) }} />
           </span>
         </div>
 
         <div className="parent">
           <span className="child1">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r9c1} onChange={(e) => { if (handleChange(e, [9, 1])) setR9C1(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r9c2} onChange={(e) => { if (handleChange(e, [9, 2])) setR9C2(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r9c3} onChange={(e) => { if (handleChange(e, [9, 3])) setR9C3(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r9c1} onChange={(e) => { if (handleChange(e, [9, 1])) setR9C1(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r9c2} onChange={(e) => { if (handleChange(e, [9, 2])) setR9C2(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r9c3} onChange={(e) => { if (handleChange(e, [9, 3])) setR9C3(e.target.value) }} />
           </span>
 
           <span className="child2">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r9c4} onChange={(e) => { if (handleChange(e, [9, 4])) setR9C4(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r9c5} onChange={(e) => { if (handleChange(e, [9, 5])) setR9C5(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r9c6} onChange={(e) => { if (handleChange(e, [9, 6])) setR9C6(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r9c4} onChange={(e) => { if (handleChange(e, [9, 4])) setR9C4(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r9c5} onChange={(e) => { if (handleChange(e, [9, 5])) setR9C5(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r9c6} onChange={(e) => { if (handleChange(e, [9, 6])) setR9C6(e.target.value) }} />
           </span>
 
           <span className="child1">
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r9c7} onChange={(e) => { if (handleChange(e, [9, 7])) setR9C7(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r9c8} onChange={(e) => { if (handleChange(e, [9, 8])) setR9C8(e.target.value) }} />
-            <input type="text" onFocus={handleFocus} max={9} min={1} value={r9c9} onChange={(e) => { if (handleChange(e, [9, 9])) setR9C9(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r9c7} onChange={(e) => { if (handleChange(e, [9, 7])) setR9C7(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r9c8} onChange={(e) => { if (handleChange(e, [9, 8])) setR9C8(e.target.value) }} />
+            <input type="tel" onFocus={handleFocus} max={9} min={1} value={r9c9} onChange={(e) => { if (handleChange(e, [9, 9])) setR9C9(e.target.value) }} />
           </span>
         </div>
       </div>
